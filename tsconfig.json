@@ -1,0 +1,11 @@
+{
+	"compilerOptions": {
+	  "target": "es5",
+	  "lib": ["dom", "esnext"],
+	  "jsx": "react-jsx",       // для React 17 и выше
+	  "moduleResolution": "node",   // для правильного разрешения модулей
+	  "esModuleInterop": true,
+	  "skipLibCheck": true,
+	  "forceConsistentCasingInFileNames": true
+	}
+  }
